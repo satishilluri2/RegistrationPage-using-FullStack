@@ -1,0 +1,19 @@
+@charset "UTF-8";
+
+p {
+    border : 5px solid rgb(41, 12, 204);
+    border-collapse: collapse;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    background-color:aqua;
+    text-align: center;
+    margin-left: 45%;
+    margin-right: 45%;
+
+}
+h1{
+    text-align: center;
+    background-color: coral;
+}
